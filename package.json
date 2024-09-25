@@ -1,6 +1,6 @@
 {
-  "name": "react-meteor-hooks",
-  "version": "0.3.2",
+  "name": "react-meteor-hooks-forks",
+  "version": "0.3.3",
   "description": "React Hooks for Meteor.",
   "main": "dist/index.js",
   "scripts": {
