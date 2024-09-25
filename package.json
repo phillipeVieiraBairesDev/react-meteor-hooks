@@ -26,7 +26,7 @@
   "homepage": "https://github.com/andruschka/react-meteor-hooks#readme",
   "dependencies": {},
   "peerDependencies": {
-    "react": "^18.0.0"
+    "react": "^16.8.5 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "eslint": "^5.15.3",
